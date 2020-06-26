@@ -12,7 +12,7 @@ Installition:
 6. Reboot to system!
 7. Fix camera
 
-Fix camera:
+Fix camera:                                                         
     Password is "phablet"
     To connect to shell use ssh phablet@10.15.19.82
     In order to get camera working need to run commands blew in terminal:
