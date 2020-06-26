@@ -1,9 +1,9 @@
 # Ubports-Onclite-redmi7
 
 Installition:
-0.1 Unlock Bootloader
-0.5 Install TWRP 
-0.9 Reboot in TWRP
+0.1 Unlock Bootloader          
+0.5 Install TWRP          
+0.9 Reboot in TWRP        
 1. flash UBports-vendor.zip
 2. flash ubports-gsixx.zip
 3. flash halium-boot.zip
