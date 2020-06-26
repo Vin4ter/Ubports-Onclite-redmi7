@@ -5,7 +5,7 @@ Status: Stable
 Password is "phablet"                             
 Bugs: Fingerprint                                            
 Author: Telegram: @supirlelik96, 4pda: supirlelik86    
-Thank you:
+Thank you:                                            
 Telegram:  @Flydiscohuebr                                                                   
 Telegram:  @erfanabdi                               
 
@@ -36,8 +36,8 @@ ChangeLog:
 -Minor changes
 
 Download:                                                                                         
-Halium-boot: https://drive.google.com/file/d/1PrO0lrx6ihIpW0c0d4SWQN2Z46SEaRzi/view?usp=sharing
-Ubports gsi: https://build.lolinet.com/file/halium/GSI/ubports_GSI_installer_v9.zip
-Halium-ramdisk: https://build.lolinet.com/file/halium/GSI/tools/halium-ramdisk.zip
-Apparmor: https://build.lolinet.com/file/halium/GSI/tools/apparmor_enabler.zip
-UBports-vendor: https://drive.google.com/file/d/1_FRPq4cr88-Kx6aTud_l7lm
+Halium-boot: https://drive.google.com/file/d/1PrO0lrx6ihIpW0c0d4SWQN2Z46SEaRzi/view?usp=sharing                                        
+Ubports gsi: https://build.lolinet.com/file/halium/GSI/ubports_GSI_installer_v9.zip                                              
+Halium-ramdisk: https://build.lolinet.com/file/halium/GSI/tools/halium-ramdisk.zip                                      
+Apparmor: https://build.lolinet.com/file/halium/GSI/tools/apparmor_enabler.zip                                       
+UBports-vendor: https://drive.google.com/file/d/1_FRPq4cr88-Kx6aTud_l7lm                                         
