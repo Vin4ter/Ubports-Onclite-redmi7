@@ -1,7 +1,7 @@
 # Ubports Onclite (Redmi 7)
 Ubuntu touch v2.0.0 Gsi                                                      
 Halium 9 Based                                                            
-Status: Stable                                      
+Status: Stable, unuficial                                      
 Password is "phablet"                             
 Bugs: Fingerprint                                            
 Author: Telegram: @supirlelik96, 4pda: supirlelik86    
@@ -15,7 +15,7 @@ Installition:
 0.5 Install TWRP          
 0.9 Reboot in TWRP        
 1. flash UBports-vendor.zip
-2. flash ubports-gsixx.zip
+2. flash ubports-gsi-xx.zip
 3. flash halium-boot.zip
 4. flash halium-ramdisk.zip
 5. flash apparmor.zip
