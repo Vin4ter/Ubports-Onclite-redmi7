@@ -1,7 +1,7 @@
-# Ubports-Onclite-redmi7
+# Installition Notes UBports for Onclite
 
-Installition:
-0.1 Unlock Bootloader          
+Installition
+0.1 Unlock Bootloader               
 0.5 Install TWRP          
 0.9 Reboot in TWRP        
 1. flash UBports-vendor.zip
