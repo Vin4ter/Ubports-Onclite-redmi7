@@ -35,6 +35,9 @@ ChangeLog:
 -FIX for viewing videos on YouTube in 720p    
 -Minor changes
 
+Bugs:                                   
+Fingerprint                               
+
 Download:                                                                                         
 Halium-boot: https://drive.google.com/file/d/1PrO0lrx6ihIpW0c0d4SWQN2Z46SEaRzi/view?usp=sharing                                        
 Ubports gsi: https://build.lolinet.com/file/halium/GSI/ubports_GSI_installer_v9.zip                                              
