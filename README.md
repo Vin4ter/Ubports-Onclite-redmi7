@@ -1,6 +1,6 @@
 # Installition Notes UBports for Onclite
 
-Installition
+Installition:                     
 0.1 Unlock Bootloader               
 0.5 Install TWRP          
 0.9 Reboot in TWRP        
