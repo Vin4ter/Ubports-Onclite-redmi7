@@ -10,7 +10,7 @@ Telegram:  @Flydiscohuebr
 Telegram:  @erfanabdi                               
 
 
-Installition:                     
+installation:                     
 0.1 Unlock Bootloader               
 0.5 Install TWRP          
 0.9 Reboot in TWRP        
