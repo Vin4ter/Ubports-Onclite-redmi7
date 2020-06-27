@@ -1,4 +1,4 @@
-# Ubports Onclite (Redmi 7)
+# Ubports Redmi7 / Redmi y3
 Ubuntu touch v2.0.0 Gsi                                                      
 Halium 9 Based                                                            
 Status: Stable, unuficial                                      
@@ -13,14 +13,15 @@ Telegram:  @erfanabdi
 installation:                     
 0.1 Unlock Bootloader               
 0.5 Install TWRP          
-0.9 Reboot in TWRP        
-1. flash UBports-vendor.zip
-2. flash ubports-gsi-xx.zip
-3. flash halium-boot.zip
-4. flash halium-ramdisk.zip
-5. flash apparmor.zip
-6. Reboot to system!
-7. Fix camera
+0.9 Reboot in TWRP
+1. Wipe system,art-cache,vendor,data or yes,
+2. flash UBports-vendor.zip
+3. flash ubports-gsi-xx.zip
+4. flash halium-boot.zip
+5. flash halium-ramdisk.zip
+6. flash apparmor.zip
+7. Reboot to system!
+8. Fix camera
 
 Fix camera:                                                         
     Password is "phablet"
