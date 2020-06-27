@@ -1,5 +1,5 @@
 # Ubports Redmi7 / Redmi y3
-Ubuntu touch v2.0.0 Gsi                                                      
+Ubuntu touch v2.0.0                                                      
 Halium 9 Based                                                            
 Status: Stable, unuficial                                      
 Password is "phablet"                             
