@@ -1,7 +1,7 @@
 # Ubports Redmi7 / Redmi y3
-Ubuntu touch v2.0.0                                                      
-Halium 9 Based                                                            
-Status: Stable, unuficial                                      
+Ubuntu Touch v2.0.0                                                      
+Halium 9 based                                                            
+Status: Stable, unofficial                                      
 Password is "phablet"                             
 Bugs: Fingerprint                                            
 Author: Telegram: @supirlelik96, 4pda: supirlelik86    
