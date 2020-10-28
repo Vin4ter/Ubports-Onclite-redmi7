@@ -22,7 +22,7 @@ Anbox is not working
 Password is "phablet"                                 
 To connect to shell use "ssh phablet@10.15.19.82"                    
 
-Changelog:
+Changelog:                         
 -AppArmor is fully functional now                            
 -Using mashkoukras vendor v2                              
 -New version of ubports gsi                                 
