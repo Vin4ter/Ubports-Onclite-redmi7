@@ -1,51 +1,38 @@
-# Ubports Redmi7 / Redmi y3
-Ubuntu touch v2.0.0                                                      
-Halium 9 Based                                                            
-Status: Stable, unuficial                                      
-Password is "phablet"                             
-Bugs: Fingerprint                                            
-Author: Telegram: @supirlelik96, 4pda: supirlelik86    
+# Ubports Redmi 7/Y3
+Ubuntu touch                                                    
+Project Cartel Based                                                     
+Status: Stable, Official, GSI                                                                
+Author:   @bibarub - telegram
 Thank you:                                            
 Telegram:  @Flydiscohuebr                                                                   
-Telegram:  @erfanabdi                               
+Telegram:  @erfanoabdi                               
+Telegram:  @supirlelik96
+Telegram:  @mashkoukras 
 
-
-installation:                     
-0.1 Unlock Bootloader               
-0.5 Install TWRP          
-0.9 Reboot in TWRP
-1. Wipe system,art-cache,vendor,data or yes,
-2. flash UBports-vendor.zip
-3. flash ubports-gsi-xx.zip
-4. flash halium-boot.zip
-5. flash halium-ramdisk.zip
-6. flash apparmor.zip
+Installation:                     
+1. Full wipe and format data
+2. Flash mashkoukras vendor v2.img
+3. Flash ubports_GSI_installer_v10.zip
+4. Flash UbCartel-X-onclite-20201027.zip
+5. Flash halium-ramdisk.zip
 7. Reboot to system!
-8. Fix camera
 
-Fix camera:                                                         
-    Password is "phablet"
-    To connect to shell use ssh phablet@10.15.19.82
-    In order to get camera working need to run commands blew in terminal:
-wget https://static.peat-network.xyz/junk/ubports/com.ubuntu.camera_3.1.2+gstdroid3_armhf.click
+Notes:
+Anbox is not working
+Password is "phablet"
+To connect to shell use "ssh phablet@10.15.19.82"
 
-ChangeLog:                                                          
--Update vendor                                 
--FIX flickering on the screen                 
--Improved system speed                        
--FIX for viewing videos on YouTube in 720p    
--Minor changes
+Changelog:
+-AppArmor is fully functional now
+-Using mashkoukras vendor v2
+-New version of ubports gsi
+-New kernel based on Project Cartel
 
 Bugs:                                   
-Fingerprint
-
-Warning:                                                           
-Charging your smartphone you may not see the charging icon                           
-but the smartphone is charging and the battery charge percentage increases                      
+-report if any                 
 
 Download:                                                                                         
-Halium-boot: https://drive.google.com/file/d/1PrO0lrx6ihIpW0c0d4SWQN2Z46SEaRzi/view?usp=sharing                                        
-Ubports gsi: https://build.lolinet.com/file/halium/GSI/ubports_GSI_installer_v9.zip                                              
-Halium-ramdisk: https://build.lolinet.com/file/halium/GSI/tools/halium-ramdisk.zip                                      
-Apparmor: https://build.lolinet.com/file/halium/GSI/tools/apparmor_enabler.zip                                       
-UBports-vendor: https://drive.google.com/file/d/1_FRPq4cr88-Kx6aTud_l7lmCMsRw4Kkp/view?usp=sharing                                                     
+UbCartel kernel: from this git repo or from https://anonfiles.com/R0N11dkdpb/UbCartel-X-onclite-20201027_zip
+Mashkoukras vendor v2: https://anonfiles.com/5dT913k8p5/vendor_mashkoukrasV2_img
+Ubports gsi: https://mirrors.lolinet.com/firmware/halium/GSI/ubports_GSI_installer_v10.zip                                           
+Halium-ramdisk: https://mirrors.lolinet.com/firmware/halium/GSI/tools/halium-ramdisk.zip                                                                         
