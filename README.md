@@ -6,8 +6,8 @@ Author:   @bibarub - telegram
 Thank you:                                            
 Telegram:  @Flydiscohuebr                                                                   
 Telegram:  @erfanoabdi                               
-Telegram:  @supirlelik96
-Telegram:  @mashkoukras 
+Telegram:  @supirlelik96                                               
+Telegram:  @mashkoukras                                                 
 
 Installation:                     
 1. Full wipe and format data
