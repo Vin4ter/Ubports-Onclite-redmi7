@@ -29,8 +29,7 @@ Changelog:
 -New kernel based on Project Cartel                       
 
 Bugs:                                   
--Null
--report if any
+-Null                                                                  
 
 Download:                                                                                         
 UbCartel kernel: from this git repo or from https://anonfiles.com/R0N11dkdpb/UbCartel-X-onclite-20201027_zip                 
