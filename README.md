@@ -1,5 +1,5 @@
 # Ubports Redmi 7/Y3
-Ubuntu touch                                                    
+Ubuntu touch (Ubports ota13)                                                    
 Project Cartel Based                                                     
 Status: Stable, Official, GSI                                                                
 Author:   @bibarub - telegram            
@@ -29,7 +29,8 @@ Changelog:
 -New kernel based on Project Cartel                       
 
 Bugs:                                   
--report if any                 
+-Null
+-report if any
 
 Download:                                                                                         
 UbCartel kernel: from this git repo or from https://anonfiles.com/R0N11dkdpb/UbCartel-X-onclite-20201027_zip                 
