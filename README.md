@@ -29,7 +29,9 @@ Changelog:
 -New kernel based on Project Cartel                       
 
 Bugs:                                   
--MTP                                                                 
+-MTP is not working, use sftp                                                                             
+-WiFi may randomly turn off after screen lock                      
+-Auto-Brightness is not working (unconfirmed)                      
 
 Download:                                                                                         
 UbCartel kernel: from this git repo or from https://anonfiles.com/R0N11dkdpb/UbCartel-X-onclite-20201027_zip                 
