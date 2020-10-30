@@ -17,7 +17,8 @@ Installation:
 5. Flash halium-ramdisk.zip
 7. Reboot to system!
 
-Notes:
+Notes:      
+Anbox installation - https://del.dog/amagucu       
 Password is "phablet"                                 
 To connect to shell use "ssh phablet@10.15.19.82"                    
 
@@ -28,7 +29,7 @@ Changelog:
 -New kernel based on Project Cartel                       
 
 Bugs:                                   
--Anbox is buggy, network and gpu aren't working
+-Anbox is buggy, network and gpu aren't working           
 -MTP is not working, use sftp                                                                             
 -WiFi may randomly turn off after screen lock                      
 
