@@ -38,6 +38,11 @@ Status  | Features |
 | Y |  Work |
 | N |  Not work |
 
+Contributors:
+NotKit
+TuxMan(Supirlelik96)
+bibarub(bibafox)
+
 You can compile the source code ubports:                                                                                             
 https://gitlab.com/ubports/community-ports/android9/xiaomi-redmi-7
 
