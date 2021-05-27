@@ -30,7 +30,7 @@ what works  | status |
 | MTP access| N |   
 | ADB access| N | 
 
-  | |
+Status  | Features |
 | --- | --- |
 | P |  Partial |
 | Y |  Work |
