@@ -31,11 +31,15 @@ what works  | status |
 | ADB access| N | 
 
 
+| --- | --- |
+| P |  Partial |
+| Y |  Work |
+| Y |  Not work |
 
-You can compile the source code ubports:
+You can compile the source code ubports:                                                                                             
 https://gitlab.com/ubports/community-ports/android9/xiaomi-redmi-7
 
-Or you can flash ready-made img images (initial release OTA16):
+Or you can flash ready-made img images (initial release OTA16):                                                                 
 https://github.com/ubuntu-touch-onclite/ubuntu-touch-onclite/releases/tag/20210505
 
 
