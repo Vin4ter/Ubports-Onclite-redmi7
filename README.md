@@ -1,8 +1,5 @@
-DEPRECATED
+Ubports | Redmi 7 / Y3 | OTA16(Release) | Halium 9.0
 
-Based: halium 9.0 (android9)
-
-| 
 what works  | status |
 | --- | --- |
 | Cellular Data | Y |
@@ -38,7 +35,7 @@ what works  | status |
 You can compile the source code ubports:
 https://gitlab.com/ubports/community-ports/android9/xiaomi-redmi-7
 
-Or you can flash ready-made img images (initial release):
+Or you can flash ready-made img images (initial release OTA16):
 https://github.com/ubuntu-touch-onclite/ubuntu-touch-onclite/releases/tag/20210505
 
 
