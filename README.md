@@ -9,7 +9,7 @@ Ubports | Redmi 7 / Y3 | OTA16(Release) | Halium 9.0
 what works  | status |
 | --- | --- |
 | Cellular Data | Y |
-| SIM SLOTS 2 | Y |
+| SIM SLOTS Dual| Y |
 | Brightness | Y |
 | Auto-Brightness | Y |
 | TorchLight | Y |
@@ -29,7 +29,7 @@ what works  | status |
 | Online charging| Y | 
 | Fingerprint| Y |
 | Recovery image| Y |
-| Ubi Installer| N | Coming soon
+| Ubi Installer| ? |
 | OTA update| Y |
 | Anbox| P |
 | Hotspot| Y |
