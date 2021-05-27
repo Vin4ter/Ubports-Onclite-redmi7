@@ -1,6 +1,6 @@
 
 ![alt text](https://raw.githubusercontent.com/Vin4ter/Ubports-Onclite-redmi7/master/ubuntu-touch-audiocast-ubports-d7isc43wDx5.1400x1400.jpg)
-
+                                                                                                                                                                                                  
 ![alt text](https://ds-assets.cdn.devapps.ru/iOKcsqhihC1kl28Zje9qK4MVtEiHwi1eVXZQBYrgG1jT5KsjQw.jpg?_=0)  ![alt text](https://ds-assets.cdn.devapps.ru/iOKcsiBtqUie4EGD7bIFaSfPEkyvz1cmp5OCIz2GeV1glOipAB5g.jpg?_=0) 
 
 
