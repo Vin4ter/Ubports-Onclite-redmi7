@@ -30,11 +30,11 @@ what works  | status |
 | MTP access| N |   
 | ADB access| N | 
 
-what works  | status |
+ - | - |
 | --- | --- |
 | P |  Partial |
 | Y |  Work |
-| Y |  Not work |
+| N |  Not work |
 
 You can compile the source code ubports:                                                                                             
 https://gitlab.com/ubports/community-ports/android9/xiaomi-redmi-7
