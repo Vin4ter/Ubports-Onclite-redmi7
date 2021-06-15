@@ -29,7 +29,7 @@ what works  | status |
 | Online charging| Y | 
 | Fingerprint| Y |
 | Recovery image| Y |
-| Ubi Installer| ? |
+| Ubi Installer| Y |
 | OTA update| Y |
 | Anbox| P |
 | Hotspot| Y |
@@ -50,7 +50,11 @@ bibarub(bibafox)
 You can compile the source code ubports:                                                                                             
 https://gitlab.com/ubports/community-ports/android9/xiaomi-redmi-7
 
-Or you can flash ready-made img images (initial release OTA16):                                                                 
+Old ready-made img images (initial release OTA16):                                                                 
 https://github.com/ubuntu-touch-onclite/ubuntu-touch-onclite/releases/tag/20210505
+
+Installation:                                                                                                                 
+Please flash rom in Ubports Installer(https://devices.ubuntu-touch.io/device/onclite/)                                                                                   
+
 
 
